@@ -1,0 +1,27 @@
+*{
+  list-style: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+  
+.container{
+  width: 100%;
+  max-width: 1200px;
+  margin:0 auto ;
+  padding: 0 15px;
+}
+
+.header{
+  padding: 10px 0;
+}
+
+
+.logo{
+  width: 60px;
+}
+
+.avatar{
+  width: 100%;
+  border-radius: 5.7px 5.7px 0 0 ;
+}
